@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software AI Engineer</h3>
 
 - 📫 How to reach me **moamenbeeder@gmail.com**
-- 📄 Know about my experiences: [View My Resume](./resume.pdf)
+- 📄 Know about my experiences: [View My Resume](resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
